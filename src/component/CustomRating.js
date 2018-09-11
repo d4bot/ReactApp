@@ -57,6 +57,7 @@ class CustomRating extends React.Component {
         }
 
         <div align="center">
+          
           <Rating
             id={id}
             name={name}
